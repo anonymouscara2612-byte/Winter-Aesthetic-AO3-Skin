@@ -725,6 +725,14 @@ span.requested {
   color: #EAEDF2;
 }
 
+#dashboard {
+  background: rgba(14, 16, 20, 0.7);
+  border: 3px solid transparent;
+  box-shadow: none;
+  color: #EAEDF2;
+  border-radius: 8px;
+}
+
 #dashboard.own,
 .dashboard .own {
   background: rgba(14, 16, 20, 0.7);
